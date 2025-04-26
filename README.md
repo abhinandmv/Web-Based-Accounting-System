@@ -131,6 +131,11 @@ Visit: `http://127.0.0.1:5000`
 ![image](https://github.com/user-attachments/assets/e51f71c9-1658-427c-9293-d978ef69d244)
 
 
+## 👥 Contributors
+- 👨‍💻 **[Abhinand Meethele Valappil](https://github.com/abhinandmv)**
+- 🧑‍💻 **[Garv Randhar](https://github.com/GarvRandhar)**
+
+
 ## ⚠️ License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
