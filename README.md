@@ -134,6 +134,7 @@ Visit: `http://127.0.0.1:5000`
 ## 👥 Contributors
 - 👨‍💻 **[Abhinand Meethele Valappil](https://github.com/abhinandmv)**
 - 🧑‍💻 **[Garv Randhar](https://github.com/GarvRandhar)**
+- 🧑‍💻 **[Rishabh Gupta](https://github.com/Rishabh2005-05)**
 
 
 ## ⚠️ License
